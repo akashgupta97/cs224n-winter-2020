@@ -3,7 +3,7 @@
 
 This repository contains my solutions to the assignments of the CS224n course offered by Stanford University (Winter 2020).
 
-You can find notes, slides and supplementary material [here]((http://web.stanford.edu/class/cs224n/))
+You can find notes, slides and supplementary material [here](http://web.stanford.edu/class/cs224n/)
 
 Find the video lectures for [Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)!
 
