@@ -17,4 +17,4 @@ I have also created a list of short notes myself. Feel free check it out! [Link]
 - [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment3/student): Dependency Parsing. (_Done_)
 
 ### Assignment 4:
-- [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment4): Word2vec - Neural Machine Translation. (_Done_)
+- [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment4): Neural Machine Translation. (_Done_)
