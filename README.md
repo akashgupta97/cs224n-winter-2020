@@ -14,11 +14,11 @@ I have also created a list of short notes myself. Feel free check it out! [Link]
 
 ### Assignment 2:
 - [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment2): Word2vec - Skip gram model. (_Done_)
-- [Link](https://github.com/akashgupta97/cs224n-winter-2020/blob/master/assignment2/assignment2_written.pdf): Written
+- [Link](https://github.com/akashgupta97/cs224n-winter-2020/blob/master/assignment2/assignment2_written.pdf): Written. (_Done_) 
 
 ### Assignment 3:
 - [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment3/student): Dependency Parsing. (_Done_)
 
 ### Assignment 4:
 - [Link](https://github.com/akashgupta97/cs224n-winter-2020/tree/master/assignment4): Neural Machine Translation. (_Done_)
-- [Link](https://github.com/akashgupta97/cs224n-winter-2020/blob/master/assignment4/assignment4_written.pdf): Written
+- [Link](https://github.com/akashgupta97/cs224n-winter-2020/blob/master/assignment4/assignment4_written.pdf): Written. (_Done_)
